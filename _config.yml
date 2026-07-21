@@ -13,7 +13,7 @@ title                    : "Yang MING/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yang MING"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mintaym3.github.io/Yang_MING.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://mintaym3.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mintaym3/Yang_MING.github.io/"
@@ -27,13 +27,12 @@ author:
   name             : "Yang MING"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Spain"
+  employer         : "IMDEA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yang23.ming@polyu.edu.hk" 
 
   # Academic websites
-  academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=QzGXYbEAAAAJ&view_op=list_works"
   orcid            : "https://orcid.org/0000-0003-4930-7292"
   researchgate     : "https://www.researchgate.net/profile/Yang_Ming45?ev=hdr_xprf"
