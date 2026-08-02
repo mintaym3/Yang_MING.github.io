@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Yang Ming **currently is a Postdoc follow at The HongKong Polytechnic University, where he obtained his PhD degree. On Nov 2027, he will continue his research at IMDEA, Spain under MSCA-PF scheme. 
+**Dr. Yang Ming (明洋) **currently is a Postdoc follow at The HongKong Polytechnic University, where he obtained his PhD degree. On Nov 2027, he will continue his research at IMDEA, Spain under MSCA-PF scheme. 
 
 **His research interest includes: **
 
